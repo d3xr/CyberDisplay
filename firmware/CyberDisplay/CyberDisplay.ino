@@ -31,9 +31,9 @@
 
 */
 
-/* WiFi login */                            const char*   ssid = "apsberry";
-/* WiFi password */                         const char*   password =  "apsberry";
-/* NightScout url */                        String        adress_NS = "https://iskander-x.herokuapp.com";
+/* WiFi login */                            const char*   ssid = "MY_WIFI_LOGIN";
+/* WiFi password */                         const char*   password =  "MY_WIFI_PASS";
+/* NightScout url */                        String        adress_NS = "https://MY_NS_ADRESS.COM";
 
 /* If you need trend - set 1, else 0  */    const bool    needed_arrow = 1;
 /* How many seconds will trend display */   const int     delay_arrow = 8;
